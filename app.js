@@ -167,10 +167,10 @@
 
   const SEED_USERS = [
     { id: 'U1', name: 'Hans David Cruz', email: 'admin@rgca.ph', password: 'admin', role: 'admin', active: true },
-    { id: 'U2', name: 'Robert Sales', email: 'sales@rgca.ph', password: 'sales', role: 'sales', active: true },
-    { id: 'U3', name: 'Anna Inventory', email: 'inv@rgca.ph', password: 'inventory', role: 'inventory', active: true },
-    { id: 'U4', name: 'Pedro Production', email: 'prod@rgca.ph', password: 'production', role: 'production', active: true },
-    { id: 'U5', name: 'Grace Marketing', email: 'mkt@rgca.ph', password: 'marketing', role: 'marketing', active: true }
+    { id: 'U2', name: 'Hans Daniel Cruz', email: 'sales@rgca.ph', password: 'sales', role: 'sales', active: true },
+    { id: 'U3', name: 'John Lloyd De Leon', email: 'inv@rgca.ph', password: 'inventory', role: 'inventory', active: true },
+    { id: 'U4', name: 'Jhon Seal Serva', email: 'prod@rgca.ph', password: 'production', role: 'production', active: true },
+    { id: 'U5', name: 'Renz Jimenez', email: 'mkt@rgca.ph', password: 'marketing', role: 'marketing', active: true }
   ];
 
   /* ============================================================
